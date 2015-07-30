@@ -717,7 +717,7 @@ StScrollBar StButton#hhandle:active {
     -minimum-hpadding: 6px;
     box-shadow: none; /* Remove the blue underline present in 3.16 */
     background-image: none;
-    color: #363636;
+    color: #000000;
     font-weight: bold;
     border: 1px solid transparent;
     border-top-width: 0;
