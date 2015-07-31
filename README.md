@@ -2,8 +2,7 @@ The Doge shell theme.
 
 ### much installation
 
-Place the directory under `/usr/share/themes/` or `~/.local/share/themes/`
-
+Place the directory under `/usr/share/themes/` 
 The theme requires [User Theme Extension](https://extensions.gnome.org/extension/19/user-themes/) for Gnome Shell.
 
 ### such compatability
