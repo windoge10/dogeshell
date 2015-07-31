@@ -635,7 +635,7 @@ StScrollBar StButton#hhandle:active {
     border-bottom-style: ridge;
     border-left-style: none;
     border-bottom-width: 3px;
-    border-color: #000;
+    border-color: #001;
 }
 
 #panel.in-overview,
